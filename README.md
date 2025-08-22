@@ -5,6 +5,26 @@ Meu nome é Mikael Teixeira, estou no 5° período do curso de Sistemas de Infor
 ---
 ### Linguagens e Tecnologias 
 
+
+
+<img
+  align="left"
+  alt="C#"
+  title="C#"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img
+  align="left"
+  alt=".NET"
+  title=".NET"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
+/>
+
+
 <img 
     align="left" 
     alt="Python" 
@@ -13,15 +33,6 @@ Meu nome é Mikael Teixeira, estou no 5° período do curso de Sistemas de Infor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
-/>
-
 
 <img 
     align="left" 
