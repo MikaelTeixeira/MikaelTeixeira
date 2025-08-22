@@ -77,8 +77,8 @@ Meu nome é Mikael Teixeira, estou no 5° período do curso de Sistemas de Infor
 ### 📊 Estatísticas
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelteixeira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+      align="left"
+      alt="GitHub Stats"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelteixeira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_bust=1"/>
 </p>
