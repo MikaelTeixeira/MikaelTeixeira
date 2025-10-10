@@ -1,5 +1,7 @@
 **Backend Developer**
 
+Mikael Teixeira
+
 💻 Desenvolvedor backend
 
 🧠 Experiência com Python, C#, Django, HTML, CSS e o básico de JavaScript
