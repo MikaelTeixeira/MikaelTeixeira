@@ -1,7 +1,14 @@
 **Backend Developer**
 
-Meu nome é Mikael Teixeira, estou no 5° período do curso de Sistemas de Informação e sou natural de Alagoas. Meu foco é o desenvolvimento Backend, gosto de me desafiar, aprender coisas novas e compartilhar conhecimentos!
+💻 Desenvolvedor backend
 
+🧠 Experiência com Python, C#, Django, HTML, CSS e o básico de JavaScript
+
+🧩 Foco em arquitetura limpa, POO e boas práticas de código
+
+🧪 Interesse em IoT, automação e inteligência artificial
+
+📚 Estudante de Sistemas de Informação (CESMAC) e entusiasta do aprendizado contínuo
 ---
 ### Linguagens e Tecnologias 
 
