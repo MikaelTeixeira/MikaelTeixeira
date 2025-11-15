@@ -4,7 +4,7 @@ Mikael Teixeira
 
 💻 Desenvolvedor backend
 
-🧠 Experiência com Python, C#, Django, HTML, CSS e o básico de JavaScript
+🧠 Experiência com Python, C#, Django, HTML, CSS e JavaScript
 
 🧩 Foco em arquitetura limpa, POO e boas práticas de código
 
