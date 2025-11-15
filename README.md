@@ -44,6 +44,13 @@ Mikael Teixeira
 />
 
 <img 
+    alt="Django" 
+    title="Django" 
+    width="40px" 
+  src="https://static.djangoproject.com/img/logos/django-logo-negative.png"
+/>
+
+<img 
     align="left" 
     alt="Git" 
     title="Git"
