@@ -7,7 +7,7 @@
 🐍 Python for automation and future Machine Learning projects  
 🎨 Solid experience in frontend projects  
 🔧 Light experience with IoT (ESP32, Arduino, Firebase)  
-🗄️ Good experience with databases (approx. 7/10)  
+🗄️ Good experience with databases   
 📚 Information Systems student at CESMAC  
 
 ---
